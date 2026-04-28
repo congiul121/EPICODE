@@ -1,0 +1,74 @@
+.logo{
+    width: 150px;
+}
+
+.container{
+    text-align: center;
+}
+
+.slogan-container{
+    background-color: #fdfbf1;
+    padding: 3px;
+    border-top: 2px solid #fbe4ae;
+    text-align: center;
+    margin-top: px;
+
+}
+.slogan {
+    color:#427976;
+}
+.slogan-bold{
+    font-weight: bold;
+}
+.content{
+    width:45%;
+    margin: 0 auto;
+}
+
+.content h1{
+    text-align: center;
+}
+.main-image{
+    width: 100%;
+    border-radius: 8px ;
+    height: 400px;
+    object-fit: cover;
+}
+figure{
+    margin:0;
+    padding:0;
+}
+figcaption{
+    text-align: center;
+    color:#bcbcbc;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.featured-container{
+    border-left:2px solid #fbe4ae;
+    padding:2px 20px;
+
+}
+.featured-title{
+    padding: 0;
+    margin: 0;
+    color:#b5472a; 
+    text-transform:uppercase ;
+}
+
+.featured-link{
+     color: #357778;
+}
+.step-title{
+    text-align: left;
+    font-weight: bold;
+}
+
+.paragraph{
+    text-align: left;
+    text-align: justify;
+}
+.link{
+    text-align: center;
+}
