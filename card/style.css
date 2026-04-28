@@ -1,0 +1,49 @@
+.image-box img{
+   width: 30%;
+}
+.image-box{
+    position: relative;
+    text-align: center;
+}
+.fa-arrow-down{
+    background-color:white;
+    position: absolute;
+    right:520px;
+    font-size: 50px;
+    cursor: pointer;
+  transform: translateX(-50%) translateY(50px);
+  transition: transform 0.2s ease;
+}
+ .fa-arrow-down:hover {
+  transform: translateX(-50%) translateY(500px);
+  transition: transform 5s ease;
+}
+.fa-angles-up{
+    padding: 10px;
+    background-color:white;
+    position: absolute;
+    right: 900px;
+    font-size: 40px;
+    cursor: pointer;
+  transform: translateX(-50%) translateY(-55px);
+  transition: transform 0.8s ease;
+}
+.fa-angles-up:hover{
+  transform: translateX(-50%) translateY(-520px);
+  transition: transform 0.8s ease;
+}
+.fa-chevron-up{
+    padding: 10px;
+    background-color:white;
+    position: absolute;
+    right: 800px;
+    font-size: 40px;
+    cursor: pointer;
+  transform: translateX(-50%) translateY(-55px);
+  transition: transform 0.8s ease;
+}
+.fa-chevron-up:hover{
+  transform: translateX(-50%) translateY(-520px);
+  transition: transform 0.8s ease;
+}
+    
